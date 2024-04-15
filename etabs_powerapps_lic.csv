@@ -1,6 +1,6 @@
 ﻿Person name,Computer name,Expiry date(dd/mm/yyyy),Allowed Plugins
 Stefano,SG-PF47KEFE,1/1/3000,all
-Mani,SG-PF3YY3ZP,1/1/3000,all
+Mani,SG-PF3YY3ZP,1/1/3000,buttonJointForcesExtractor
 Sam,SG-S4QF8219-B,1/1/3000,all
 Jaimin,SG-PF488RJC,1/1/3000,all
 Sylvester,SG-PF4D5P5L,12/12/2024,buttonRCBeamSchedule_buttonPlotReaction_buttonLoadCombo_buttonTedds
