@@ -1,17 +1,12 @@
 ﻿Person name,Computer name,Expiry date(dd/mm/yyyy),Allowed Plugins
 Stefano,SG-PF47KEFE,1/1/3000,all
 Mani,SG-PF3YY3ZP,1/1/3000,all
-Sam,SG-S4QF8219-B,1/1/3000,all
 Jaimin,SG-PF488RJC,1/1/3000,all
-Sylvester,SG-PF4D5P5L,12/12/2024,buttonRCBeamSchedule_buttonPlotReaction_buttonLoadCombo_buttonTedds
-KahJun,SG-PF47KEE1,1/6/2024,buttonRCBeamSchedule
+KahJun,SG-PF47KEE1,1/1/2025,buttonRCBeamSchedule_buttonRCColSchedule
 Akbar,SG-R90XJ870,15/6/2023,none
-ZhangYang,SG-PF3N88KM,1/6/2024,buttonRCBeamSchedule
-SamOldLaptop,SG-PF1VV01D,1/1/3000,all
-Stefano-PC,SG-S4QF8221-B,1/1/3000,all
+ZhangYang,SG-PF3N88KM,1/1/2025,buttonRCBeamSchedule_buttonRCColSchedule
 SamLaptop,SG-PF4BVGVH,1/1/3000,all
 Thiri,SG-PF4C7YCY,1/1/2025,all
-Nicky,SG-PF3HSDH0,1/1/2025,all
 MingXuan,SG-PF4CC352,1/1/2025,all
 Simon,SG-PF4CC2TZ,1/1/2025,buttonRCBeamSchedule
 Nessie,SG-R90XLCJ9,1/1/2025,buttonRCBeamSchedule_buttonRCColSchedule
