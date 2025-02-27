@@ -1,13 +1,11 @@
 ﻿Person name,Computer name,Expiry date(dd/mm/yyyy),Allowed Plugins
 Mani,SG-PF3YY3ZP,1/1/3000,all
-Jaimin,SG-PF488RJC,1/1/3000,all
 Akbar,SG-R90XJ870,1/1/2026,all
 Thiri,SG-PF4C7YCY,1/1/3000,all
 MingXuan,SG-PF4CC352,1/1/3000,all
 Simon,SG-PF4CC2TZ,1/1/2026,all
 Nessie,SG-R90XLCJ9,1/1/2026,all
 Jeff,SG-PF4C7YWP,1/1/2026,all
-MiddleEastSuperPC,AE-S4PQ2217-C,1/1/2026,all
 TeongYenTong,MY-PF4FRZE5,1/1/2026,buttonEtabsToRhino
 TeckNanChong,MY-PF4ESRWS,1/1/2026,buttonEtabsToRhino
 AlessandroMarzucchini,GB-PF1GDFBD,1/1/2026,all
@@ -17,9 +15,8 @@ MengSeeNg,MY-PF4EW1QK,1/1/2026,buttonEtabsToRhino
 MuzakkirTaufik,MY-R90X146F,1/1/2026,buttonEtabsToRhino
 TengkuIffat,MY-R90X146H,1/1/2026,buttonEtabsToRhino
 DaniellaRaymundo,SG-PF3J4HB7,1/1/2026,all
-NivedhaNagarajan1,SG-PF47KEFE,1/1/2026,all
-NivedhaNagarajan2,SG-PF4C7YDA,1/1/2026,all
-CalinLim,SG-PF4D5P5L,1/1/2026,all
+NivedhaNagarajan,SG-PF4C7YDA,1/1/2026,all
+CalvinLim,SG-PF4D5P5L,1/1/2026,all
 MarcusNg,SG-PF3J4HC4,1/1/2026,all
 SaiNagaKishoreYenduri,SG-PF4BVGVH,1/1/2026,all
 SufenZhang,SG-PF45XNZK,1/1/2026,all
